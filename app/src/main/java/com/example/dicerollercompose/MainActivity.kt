@@ -71,7 +71,7 @@ fun DiceWithButtonAndImage(
 
 
 }
-
+//Compose is incredible!
 @Preview
 @Composable
 fun DiceRollerApp() {
